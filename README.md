@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm BlockByBlock</h1>
 <h3 align="center">A fullstack/devops developer</h3>
 
-- 🔭 I’m currently working on **MEV Bot**
-
 - 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **DeFi/NFT**
-
-- 💬 Ask me about **DeFi**
 
 ![](https://raw.githubusercontent.com/BlockByBlock/BlockByBlock/main/BlockByBlock800600.jpg)
 
