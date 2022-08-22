@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm BlockByBlock</h1>
 <h3 align="center">A fullstack/devops developer</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NextJS w Tailwind**
+
+- 🐮 I'm using Java Spring projects at work
 
 - 👯 I’m looking to collaborate on **DeFi/NFT**
 
